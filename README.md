@@ -1,1 +1,8 @@
-# LoginAuthentication
+#LOGIN AUTHENTICATION
+#LANGUAGE USED:
+              1.HTML5
+              2.CSS
+              3.PHP
+              4.SQL SERVER 2012
+     
+ #BASIC LOGIN AUTHENTICATION USING PHP AND SQL SERVER 2012 DATABASE.
