@@ -1,0 +1,91 @@
+	body{
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		background-image: url('Background.jpg');
+
+	}
+		div:nth-child(1){
+			border: 6px solid white;
+			height: 350px;
+			width: 360px;
+			margin-top: 4%;
+			display: flex;
+			align-items: center;
+			flex-direction: column;
+			background-color: #64D448;
+			color: white;
+		}
+		div:nth-child(2){
+			border: 6px solid white;
+			height: 80px;
+			width: 360px;
+			margin-top: 1.5%;
+			text-align: center;
+			background-color: #64D448;
+			color: white;
+		}
+
+		div:nth-child(3){
+			height: 10px;
+			width: 100%;
+			margin-bottom: 0%;
+			margin-top: 6%;
+			text-align: center;
+			}
+			a{
+				margin-left:2.5%;
+				color: red;
+			}
+			p{
+				font-size: 18px;
+				font-family:"Comic Sans MS",cursive,sans-sarif; 
+			}
+			h1{
+				margin-top: 6%;
+				letter-spacing: 1px;
+				font-family:"Comic Sans MS",cursive,sans-sarif; 
+
+			}
+			button{
+				margin-top: 3%;
+			}
+			::-webkit-input-placeholder {
+			        text-align: center;
+			}
+			input{
+				text-align: center;
+			}
+
+			/* for LoginPage.html input fields*/
+
+			#txt1{
+				height: 28px;
+				font-size: 14pt;
+				margin-top: 8%;
+			}
+			#txt2{
+				height: 28px;
+				font-size: 14pt;
+				margin-top: 4%;
+			}
+			/* for CreateAccount.html input fields*/
+			#field1{
+				height: 28px;
+				font-size: 14pt;
+				margin-top: 8%;
+			}
+			#field2{
+				height: 28px;
+				font-size: 14pt;
+				margin-top: 4%;
+			}
+			#field3{
+				height: 28px;
+				font-size: 14pt;
+				margin-top: 4%;
+			}
+			
+
+
+		
