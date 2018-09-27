@@ -37,7 +37,7 @@
                     if($flag==1){
                                echo "<h2>Hi,$userName</h2>";
                                echo "<h2>Welcome To Your Profile</h2>";
-                     }
+                         }
                      else{
                            echo "<h1>Either Username or Password Incorrect</h1>";
                            echo "<a href='LoginPage.html'><h1>Go Back To Login Page</h1></a>";
