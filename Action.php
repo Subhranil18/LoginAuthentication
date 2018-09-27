@@ -35,7 +35,8 @@
                              }
                      }
                     if($flag==1){
-                        echo "<h2>Welcome To Your Profile</h2>";
+                               echo "<h2>Hi,$userName</h2>";
+                               echo "<h2>Welcome To Your Profile</h2>";
                      }
                      else{
                            echo "<h1>Either Username or Password Incorrect</h1>";
